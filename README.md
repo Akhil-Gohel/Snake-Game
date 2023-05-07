@@ -11,7 +11,7 @@ To build the Snake Game using Python, you can use the Pygame library, which prov
 
 4. Game Over: The game ends when the snake collides with either its own body or the boundaries of the screen.
 
-5 .Controls: The player can control the snake's movement using the arrow keys.
+5. Controls: The player can control the snake's movement using the arrow keys.
 
 To create the game, you can use a game loop that runs continuously, updating the position of the snake and checking for collisions with food, the snake's body, and the screen boundaries. You can also use a scoring system to keep track of the player's progress, and display the score and game over messages on the screen.
 
